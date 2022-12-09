@@ -14,3 +14,18 @@ Hi there, It's me, Neasher Ahmed. I am a Front-End Web Developer with a backgrou
 ![Neasher github stats](https://github-readme-stats.vercel.app/api?username=neasher1&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 ![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neasher1&layout=compact&theme=tokyonight&hide")
+
+## 💻 Frontend
+
+[![HTML5 Badge](https://img.shields.io/badge/-Html5-E34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34c26)](#) 
+[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&labelColor=black&logo=css3&logoColor=1572B6)](#) 
+[![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-553C7B?style=for-the-badge&labelColor=black&logo=bootstrap&logoColor=553C7B)](#) 
+[![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#) 
+[![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+[![React Router Badge](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&labelColor=black&logo=react-router&logoColor=CA4245)](#) 
+[![Markdown Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&&labelColor=black&logo=markdown&logoColor=white)](#) 
+[![WordPress Badge](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&&labelColor=black&logo=wordpress&logoColor=21759B)](#)
+
+
