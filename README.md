@@ -8,3 +8,9 @@ Hi there, It's me, Neasher Ahmed. I am a Front-End Web Developer with a backgrou
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/neasher.ahmed/) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neasher/) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/neasher_ahmed) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neasher75@gmail.com)
 
 <a href="https://app.daily.dev/neasher"><img src="https://api.daily.dev/devcards/15dfa42376a84a759e95b47e2b7e4bbc.png?r=jy9" width="400" alt="Neasher Ahmed's Dev Card"/></a>
+
+### Github Stats
+
+![Neasher github stats](https://github-readme-stats.vercel.app/api?username=neasher1&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+![Must Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=neasher1&layout=compact&theme=tokyonight&hide")
