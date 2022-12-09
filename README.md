@@ -73,3 +73,8 @@ Hi there, It's me, Neasher Ahmed. I am a Front-End Web Developer with a backgrou
 <!-- ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) --> 
 
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=neasher1&theme=react&hide_border=false) 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
